@@ -1,4 +1,4 @@
-💊 **💊 Drugs Side Effects & Medical Condition Analysis**
+**💊 Drugs Side Effects & Medical Condition Analysis**
 
 This repository presents a detailed exploratory data analysis (EDA) on COVID-19 clinical trials, focusing on study types, enrollment sizes, locations, and completion timelines. The project leverages public clinical trial data to identify global research trends and healthcare responses to the pandemic.
 
